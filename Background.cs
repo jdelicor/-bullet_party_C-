@@ -4,7 +4,11 @@ using UnityEngine;
 
 public class Background : MonoBehaviour {
 
-    public float speed = - 0.1f/2;
+   
+	//moving background
+	
+	
+	public float speed = - 0.1f/2;
 
 	// Use this for initialization
 	void Start () {
