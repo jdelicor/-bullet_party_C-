@@ -21,7 +21,7 @@ public class BossActions : MonoBehaviour
         Explonding,
         Dead
     }
-
+  //bounce of the boss
 
     public bool Move = true;    ///gives you control in inspector to trigger it or not
     public Vector3 MoveVector = Vector3.up; //unity already supplies us with a readonly vector representing up and we are just chaching that into MoveVector
