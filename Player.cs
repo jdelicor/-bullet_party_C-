@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class player : MonoBehaviour
 {
-
+//parte do script da healthbar
     [SerializeField]
     private start health;
 
