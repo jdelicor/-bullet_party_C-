@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class background : MonoBehaviour {
+public class Background : MonoBehaviour {
 
     public float speed = - 0.1f/2;
 
