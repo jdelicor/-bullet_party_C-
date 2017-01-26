@@ -6,6 +6,7 @@ using UnityEngine;
 [Serializable]
 public class start
 {
+    //parte do script da healthbar
     [SerializeField]
     private barscript bar;
 
