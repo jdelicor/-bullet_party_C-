@@ -6,7 +6,7 @@ using UnityEngine.UI;
 public class barscript : MonoBehaviour
 {
 
-    
+   //healthbar script 
     private float fillAmount;
 
     [SerializeField]
